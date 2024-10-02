@@ -1,0 +1,1 @@
+print('só um print para usar no exercício 7 sobre git :|')
